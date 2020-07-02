@@ -4,9 +4,7 @@ It is easy to navigate between views in SwiftUI. It is fairly easy to navigate b
 
 # The Project
 
-This app consists of: 
-
-1. A SwiftUI View where the navigation is initialized.
-2. A UIKitViewController where a few names are listed.
+1. A SwiftUI View where the navigation is initialized. Clicking a button in this SwiftUI environment triggers:
+2. A UIKitViewController where a few names are listed. Clicking one of the names in this UIKit environment triggers:
 3. Another SwiftUI View where the full names are shown.
 
